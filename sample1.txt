@@ -1,0 +1,12 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is 6A57-1FDF
+
+ Directory of C:\DevOps-Example
+
+26-11-2024  14:25    <DIR>          .
+26-11-2024  14:19               314 .gitignore
+26-11-2024  14:19            35,823 LICENSE
+26-11-2024  14:19                49 README.md
+26-11-2024  14:25                 0 sample1.txt
+               4 File(s)         36,186 bytes
+               1 Dir(s)  250,818,600,960 bytes free
